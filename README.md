@@ -12,5 +12,3 @@ Searching
 Binary Search
 How to Run
 Compile and run Main.java to test all algorithms.
-
-Example Output
